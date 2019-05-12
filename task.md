@@ -8,6 +8,7 @@ https://github.com/datawhalechina/Python/blob/master/%E5%AD%A6%E4%B9%A0%E4%BB%BB
 
 负责人：大顺
 督促金：李福
+
 未按时打卡者将会被清退；违规者（假打卡等情况），将列入黑名单公示
 ---------------------------
 群聊天记录搜索888，可查看重要群公告~
