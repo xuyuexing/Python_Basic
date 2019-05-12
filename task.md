@@ -1,8 +1,9 @@
 # Task 1
 
 【Python基础组队学习任务一】时长2天 截止日期到5月11日晚上8点
-  链接：
+链接：
 https://github.com/datawhalechina/Python/blob/master/%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1/Task1.md
+
 【作业要求】每次任务截止时间前
 ① 在腾讯文档中提交作业，格式请看文档中文件
 负责人：大顺
