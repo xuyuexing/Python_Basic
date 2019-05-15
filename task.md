@@ -55,3 +55,27 @@ https://docs.qq.com/doc/DREV2am5yQVFVb0pO?localnum=1&wxsdk=2.7.0
     1)定义及基本操作(+，*，读取方式)
     2)字符串相关方法
 4. 字符串格式化问题
+
+------
+
+Task3（2day）
+
+1. Dict字典
+1） 定义
+2） 创建
+3） 字典的方法
+2. 集合
+1） 特性
+2） 创建
+3） 方法
+3. 判断语句（要求掌握多条件判断）
+4. 三目表达式
+5. 循环语句
+
+【Python基础组队学习任务】
+链接：
+https://github.com/datawhalechina/Python/blob/master/%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1/Task3.md
+时长：2天
+
+1）请在5月15日晚22：00前在下方表格处打卡，未按时打卡者将会被清退。
+2）方式：将CSDN/Github链接（包含：任务、遇到的问题、实现代码和参考资料等）粘贴在自己对应编号处。
