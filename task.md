@@ -79,3 +79,27 @@ https://github.com/datawhalechina/Python/blob/master/%E5%AD%A6%E4%B9%A0%E4%BB%BB
 
 1）请在5月15日晚22：00前在下方表格处打卡，未按时打卡者将会被清退。
 2）方式：将CSDN/Github链接（包含：任务、遇到的问题、实现代码和参考资料等）粘贴在自己对应编号处。
+
+------
+
+# Task4（2day）
+
+1.函数关键字
+2.函数的定义
+3.函数参数与作用域
+4.函数返回值
+5.File
+1）打开文件方式（读写两种方式）
+2）文件对象的操作方法
+3）学习对Excel及CSV文件进行操作
+6.Os模块
+7.Datetime模块
+
+【Python基础组队学习任务】
+链接：
+https://github.com/datawhalechina/Python/blob/master/%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1/Task4.md
+
+时长：2天
+
+1）请在5月17号晚22：00前在下方表格处打卡，未按时打卡者将会被清退。
+2）方式：将CSDN/Github链接（包含：任务、遇到的问题、实现代码和参考资料等）粘贴在自己对应编号处。
